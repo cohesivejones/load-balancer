@@ -1,6 +1,6 @@
 # Load Balancer
 ## Purpose
-Illustrate the use of nginx as a basic load blancer 
+Demonstrate the use of nginx as a basic load blancer to service-a, service-b and service-c.
 
 ## Setup instructions
 1. Install docker
